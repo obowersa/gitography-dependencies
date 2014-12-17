@@ -1,0 +1,16 @@
+setup.py
+gitography_dependencies/__init__.py
+gitography_dependencies/checkout.py
+gitography_dependencies/clone.py
+gitography_dependencies/command_line.py
+gitography_dependencies/dependencies.py
+gitography_dependencies/file_tree.py
+gitography_dependencies/parse_dockerfile.py
+gitography_dependencies/query_registry.py
+gitography_dependencies.egg-info/PKG-INFO
+gitography_dependencies.egg-info/SOURCES.txt
+gitography_dependencies.egg-info/dependency_links.txt
+gitography_dependencies.egg-info/entry_points.txt
+gitography_dependencies.egg-info/not-zip-safe
+gitography_dependencies.egg-info/requires.txt
+gitography_dependencies.egg-info/top_level.txt

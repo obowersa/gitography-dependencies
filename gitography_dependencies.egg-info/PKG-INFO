@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gitography-dependencies
+Version: 0.2
+Summary: Dependency resolution for gitography builds
+Home-page: http://github.com/obowersa/gitography_dependencies
+Author: Owen Bower Adams
+Author-email: owen@obowersa.net
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

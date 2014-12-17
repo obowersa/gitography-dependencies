@@ -1,0 +1,3 @@
+[console_scripts]
+gitography-dependency = gitography_dependencies.command_line:main
+
