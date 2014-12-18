@@ -9,10 +9,9 @@ resolution for Dockerimages
 
 We look for a Dockerfile with the following comments in it's header:
 
-#IMAGE_REPO = /home/obowersa/webapp3/
-#IMAGE_TAG = 1.1
-#IMAGE_REG = http://localhost:5000/v1/repositories/
-
+<pre>#IMAGE_REPO = /home/obowersa/webapp3/</pre>
+<pre>#IMAGE_TAG = 1.1</pre>
+<pre>#IMAGE_REG = http://localhost:5000/v1/repositories/</pre>
 The IMAGE_REPO is either a local or remote git repository which we clone from if
 the parent image cant be found in registry specified with IMAGE_REG. The name we query
 for is a combination of the directory name specified in IMAGE_REPO and the
